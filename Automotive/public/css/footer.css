@@ -1,0 +1,76 @@
+
+/*main footer container*/
+
+#footerContainer{
+
+    border-top:2px solid #474747 ;
+    background-color: #0F1215;
+
+}
+
+/* footer h3 style*/
+
+.Footerh3{
+
+    position:relative ;
+    left: 6px;
+    color: #FDC501;
+
+}
+
+
+#HomeFtr{
+
+    padding-top: 70px;
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 40%;
+    background-color:#0F1215;
+
+}
+
+/* hyperlink style*/
+
+
+/* base style*/
+
+li.footerLink a{
+
+    background-color: transparent;
+
+    color: #8c8b8b;
+   // color: #FDC501;
+    text-decoration: none;
+    transition: color 0.5s;
+
+}
+
+
+ /* visited style */
+
+li.footerLink a:visited{
+
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+/* hover style */
+
+li.footerLink a:hover {
+
+    color: white;
+
+}
+
+
+/* active style */
+
+li.footerLink a:active{
+
+    color: white;
+    text-decoration: none;
+
+}
+

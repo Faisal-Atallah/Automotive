@@ -1,0 +1,72 @@
+
+#emailLogin{
+    background-color:#222222;
+    color: #FDC501;
+    height:40px;
+    border:none;
+}
+
+#passwordLogin{
+    background-color:#222222;
+    color: #FDC501;
+    height:40px;
+    border:none;
+}
+
+#passwordLogin:focus{
+    background-color: transparent;
+}
+
+#emailLogin:focus{
+    background-color: transparent;
+}
+
+#loginbutton{
+    color: #fdc501;
+    background-color:#222222;
+    font-family: 'Orbitron', sans-serif;
+    border-color: transparent;
+    font-size: 1.2em;
+    transition:all 0.8s;
+}
+
+#loginbutton:hover{
+    color:   #222222;
+    background-color:#fdc501;
+
+}
+
+
+
+#closelogin{
+    color: #fdc501;
+    background-color:#222222;
+    border-color: transparent;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.2em;
+    transition: all 0.8s;
+}
+
+#closelogin:hover{
+    color:   #222222;
+    background-color:#fdc501;
+
+}
+
+#dismisslogin:hover{
+ //   box-shadow: 0px 0px 2px 2px white;
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#dismisslogin{
+    background-color: transparent;
+    float: right;
+    border: none;
+}
+
+#LoginHedar{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2em;
+}

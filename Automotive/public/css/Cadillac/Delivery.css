@@ -1,0 +1,24 @@
+#delivery .modal-dialog{
+
+    background-color: #14181C;
+
+}
+
+
+
+#headclose{
+
+    float: right;
+    background-color: transparent;
+    border: none;
+
+}
+
+#headclose:hover{
+
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
+

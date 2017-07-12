@@ -1,0 +1,91 @@
+#HowWeWrk{
+
+
+
+    padding: 5%;
+    position: relative;
+
+}
+
+
+
+
+#btnorder{
+
+    background-color: #0f0f0f;
+    border-radius: 0;
+    color: #D80027;
+    font-size: 20px;
+    border-color:transparent ;
+
+}
+
+#btnorder:hover{
+
+    background-color: #D80027;
+    color: #0f0f0f;
+
+}
+
+#OrderReModal .modal-content{
+
+    background-color: #222222;
+    color: #FDC501;
+  
+}
+
+#OrderReModal button {
+
+    float: right;
+    background-color: transparent;
+    border: none;
+
+}
+
+#OrderReModal.modal-body{
+
+}
+
+#OrderReModal button:hover{
+
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
+
+
+.flex-container{
+
+    display: flex;
+
+    justify-content: space-between;
+}
+
+
+.container-fluid.ser{
+
+    background-image: url(../../public/Home/image/GFW_5477jalop.jpg);
+    background-size: 100%100%;
+    background-attachment: fixed;
+    height: auto;
+    padding: 6%;
+
+    position: relative;
+
+}
+
+.container-fluid .ser .col-sm-3{
+
+}
+
+.orderInfo{
+    border: 1px solid transparent;
+    border-radius: 12px;
+    background-color: #0F1215;
+    text-align: center;
+    margin-top: 5%;
+    padding:1% 0 1% 0 ;
+
+}
+

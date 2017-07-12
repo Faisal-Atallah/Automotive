@@ -1,0 +1,134 @@
+/* car country menu*/
+#cars_country{
+
+    padding: 5%;
+
+}
+
+/* car country thumbnail */
+#cars_country .thumbnail{
+
+    background-color: #474747;
+    border-color: transparent;
+    transition:0.8s ease-in-out;
+
+}
+/* car country thumbnail hoover*/
+#cars_country .thumbnail:hover{
+
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-box-shadow: 0 8px 6px -6px #000000;
+    -moz-box-shadow: 0 8px 6px -6px #000000;
+    box-shadow: 0 8px 6px -6px #FDC501;
+    background:transparent;
+    border-color:transparent;
+
+}
+/*header style*/
+#cars_country h2
+{
+    color: #FDC501;
+
+}
+
+/* country's section  */
+
+#china{
+
+    height: auto;
+    margin-top:4%;
+    padding-left: 5%;
+
+}
+
+#france {
+
+    height: auto;
+    padding-top: 40px;
+    padding-left: 5%;
+
+}
+
+#germany{
+
+    height: auto;
+    padding-left: 5%;
+    padding-top: 40px;
+
+}
+
+#italy{
+
+    height: auto;
+    padding-top: 40px;
+    padding-left: 5%;
+
+}
+
+#japan{
+
+    height: auto;
+    padding-left: 5%;
+    padding-top: 40px;
+    color: black;
+
+}
+
+#sweden{
+
+    height: auto;
+    padding-top: 40px;
+    padding-left: 5%;
+
+}
+
+#korea{
+
+    height: auto;
+    padding-left: 5%;
+    padding-top: 40px;
+
+}
+
+#unitedK{
+
+    height: auto;
+    padding-top: 40px;
+    padding-left: 5%;
+
+}
+
+#america{
+
+    height: auto;
+    padding-left: 5%;
+
+}
+
+
+/* pills style "country name list" */
+
+.nav.nav-pills.nav-stacked li a{
+
+    background-color: #FDC501;
+    color:#0F1215;
+    transition: 0.4s ease-in-out;
+
+}
+
+
+.nav.nav-pills.nav-stacked li a:hover{
+
+    background-color:#474747;
+    color:#FDC501;
+
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+
+    background-color: #222222 !important;
+    color: #FDC501 !important;
+
+}

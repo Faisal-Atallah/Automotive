@@ -1,0 +1,67 @@
+.initiallyHidden { display: none; }
+
+
+#productresult{
+    background-color: #0f0f0f;
+
+}
+
+.pagination>li>a,
+.pagination>li>span {
+    color: #0f0f0f ;
+    border-color: transparent;
+}
+.pagination>li.active>a {
+    background: #FDC501;
+    color: #0f0f0f;
+    border-color: transparent;
+}
+.pagination>li.active>a:hover {
+    background: whitesmoke;
+    color: #0f0f0f;
+    border-color: transparent;
+}
+
+
+
+ #display-product{
+
+     margin-bottom: 5%;
+     padding: 5%;
+
+ }
+
+
+ .Ser,.Abt,.Cont,#mapWrapper{
+
+     border: none;
+ }
+
+
+.list-group{
+
+    border: 1px solid #474747;
+    border-radius: 5px;
+
+
+
+}
+
+.list-group-item{
+
+    background-color:#373737;
+    border-color: transparent;
+
+
+}
+
+.list-group > a{
+color:#FDC501;
+    border-color: #1B1C1D;
+
+}
+
+.list-group > a:hover{
+    color: #1B1C1D;
+}
+

@@ -1,0 +1,97 @@
+#MAIN_CATEGORY
+
+{
+
+    position: relative;
+    border-bottom:1px solid;
+    background-color:#1B1C1D;
+
+}
+
+#MAIN_CATEGORY .thumbnail{
+
+    width: 70%;
+    -webkit-box-shadow: 0 8px 6px -6px #000000;
+    -moz-box-shadow: 0 8px 6px -6px #000000;
+    box-shadow: 0 8px 6px -6px #FDC501;
+    background-color:#1B1C1D;
+    border: 1px solid #474747;
+
+}
+
+#MAIN_CATEGORY .thumbnail button{
+
+    background-color: #FDC501;
+    color:#0F1215;
+    border:0 ;
+    font-size: 1.5em;
+    transition: 0.8s ease-in-out;
+}
+
+#MAIN_CATEGORY .thumbnail button:focus{
+
+    background-color: #0F1215;
+    color: #FDC501;
+
+}
+
+#MAIN_CATEGORY .thumbnail button:active{
+
+    background-color: #0F1215;
+
+}
+
+#MAIN_CATEGORY .thumbnail button:hover{
+
+    background-color:#0F1215;
+    color: #FDC501;
+    border: 1px solid #474747;
+   
+
+}
+
+#MAIN_CATEGORY .thumbnail h3{
+
+    color: #555555;
+
+}
+
+/***************  modals style ***********************/
+
+
+
+.main-category .modal-dialog{
+
+    background-color: #14181C;
+
+}
+
+
+
+#headclose{
+
+    float: right;
+    background-color: transparent;
+    border: none;
+
+}
+#headclose:hover{
+
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
+
+
+
+.main-category button{
+    background-color: #E60000;
+    border: none;
+}
+.main-category button:hover{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    background-color: #E60000;
+}

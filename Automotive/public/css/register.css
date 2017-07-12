@@ -1,0 +1,150 @@
+#message{
+
+    font-size: 1.7em;
+    color:#D80027;
+
+}
+.error{
+
+    color:#A8A7A7;
+}
+.modal-content{
+
+    background-color: transparent;
+    color: #FDC501;
+    box-shadow: white;
+
+}
+
+.form-control{
+
+    background-color:#222222;
+    color: #FDC501;
+    height:40px;
+    border:none;
+
+}
+
+.form-control:focus{
+
+    background-color: transparent;
+
+}
+
+
+#bodymdl{
+
+    position: relative;
+
+}
+
+#HeadMdl button {
+
+    background-color: transparent;
+    float:right;
+    border: none;
+
+
+}
+
+#HeadMdl:hover button{
+
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+
+}
+
+#submit{
+
+    background-color:#222222;
+    color: #fdc501;
+    border-color: transparent;
+    width: 100%;
+    font-size: 1.2em;
+    transition:all 0.8s;
+
+}
+
+#submit:hover{
+
+    background-color:#fdc501;
+    color: #222222;
+
+}
+
+
+#close{
+
+    width: 100%;
+    background-color:#222222;
+    color: #fdc501;
+    border-color: transparent;
+    font-size: 1.2em;
+    transition:all 0.8s;
+
+}
+#close:hover{
+
+    background-color: #fdc501;
+    color: #222222;
+
+}
+
+#headclose:hover{
+
+    color: #fdc501;
+
+}
+
+
+div.error{
+
+}
+
+.form-control,.form-group{
+
+    color: #FDC501;
+    border:none;
+
+}
+
+.form-control::-webkit-input-placeholder { color: #FDC501; }
+.form-control:-moz-placeholder { color: #FDC501; }
+.form-control::-moz-placeholder { color: #FDC501; }
+.form-control:-ms-input-placeholder { color: #FDC501; }
+
+
+
+.error{
+
+
+}
+.modal.fade .modal-dialog {
+
+    -webkit-transform: scale(0.1);
+    -moz-transform: scale(0.1);
+    -ms-transform: scale(0.1);
+    transform: scale(0.1);
+    top: 300px;
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+
+}
+
+.modal.fade.in .modal-dialog {
+
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform: translate3d(0, -300px, 0);
+    transform: translate3d(0, -300px, 0);
+    opacity: 1;
+
+}
+
+

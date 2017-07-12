@@ -1,0 +1,49 @@
+#sub_menu{
+    position: relative;
+    background-color: #F5F5F5;
+
+}
+
+
+/*pills*/
+.nav-pills > li >a{
+
+    color:#555555;
+}
+.nav.nav-pills >li>a:hover{
+    border: transparent;
+    background-color:transparent;
+    color:#000000;
+}
+
+.nav-pills >li>a:focus{
+    border: transparent;
+    background-color: transparent;
+}
+.dropdown-menu{
+    background-color: #0f0f0f;
+    color: #FDC501;
+}
+.dropdown-menu li >a{
+    color: white;
+}
+
+.nav-center {
+    font-size: 1.35em;
+    text-align: center;
+    background-color:#F5F5F5;
+    margin-top: 4%;
+}
+ul.nav {
+    display: inline-block;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+

@@ -1,0 +1,89 @@
+
+/*  body style   */
+
+body{
+
+
+    font-family: 'Orbitron', sans-serif !important;
+
+}
+
+/* h1 style */
+
+h1{
+
+
+    font-size: 4em !important;
+
+
+    color:#fdc501;
+}
+
+/*  h3 style */
+
+h3{
+
+     font-family: 'Orbitron', serif !important;
+
+     font-size: 2.5em;
+
+     color:#fdc501;
+
+}
+
+/* p style */
+
+p{
+
+    font-size:1.5em;
+    color: #A8A7A7;
+}
+
+
+/* a style */
+li a{
+
+    color:  #A8A7A7;
+}
+
+a{
+
+    font-size: 1.5em;
+    color: #A8A7A7;
+}
+
+/* media qyery change font size*/
+
+@media all and (max-width: 1280px) {
+
+
+
+    h1{
+
+
+        font-size: 2.5em !important;
+
+    }
+
+    h3{
+
+        font-size: 1.5em;
+
+
+    }
+
+    p{
+
+        font-size:1em;
+
+    }
+
+
+    a{
+
+        font-size: 1em;
+    }
+
+
+
+}

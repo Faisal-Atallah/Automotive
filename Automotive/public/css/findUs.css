@@ -1,0 +1,12 @@
+#googleMap{
+    height: 100%;
+    position: relative;
+    top: 12%;
+}
+#findus{
+    position: relative;
+    top: 10%;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    border: none;
+}

@@ -1,0 +1,64 @@
+
+
+
+
+#carmodel{
+    background:#0F1215;
+    padding:2% 0 2% 0;
+
+}
+.well{
+    background-color: transparent;
+    border: none;
+    margin-top: 1%;
+
+}
+#SRX h3{
+    color: #A8A7A7;
+    background-color: transparent;
+    text-decoration: none;
+}
+#SRX a:focus{
+    color: transparent;
+    text-decoration: none;
+}
+#SRX a:hover{
+    color: transparent;
+    text-decoration: none;
+}
+#ESCALADE h3{
+    color: #A8A7A7;
+    background-color: transparent;
+    text-decoration: none;
+}
+#ESCALADE a:hover{
+    color: transparent;
+    text-decoration: none;
+}
+#ESCALADE a:focus{
+    color: transparent;
+    text-decoration: none;
+}
+#CTS h3{
+    color: #A8A7A7;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#CTS a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+#CTS > a:focus{
+    color: transparent;
+    text-decoration: none;
+}
+
+/*model a href link*/
+ 
+
+#CarModel{
+    border-bottom: 1px solid whitesmoke;
+    position: relative;
+}
+

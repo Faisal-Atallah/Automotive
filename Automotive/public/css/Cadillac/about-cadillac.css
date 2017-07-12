@@ -1,0 +1,20 @@
+
+.about-cadillac-container{
+
+    background-color: #0F1215;
+}
+
+.initiallyHidden { display: none; }
+
+#thumbnail-container .thumbnail{
+
+    width: 70%;
+    -webkit-box-shadow: 0 8px 6px -6px #000000;
+    -moz-box-shadow: 0 8px 6px -6px #000000;
+    box-shadow: 0 8px 6px -6px #FDC501;
+    background-color:#1B1C1D;
+    border: 1px solid #474747;
+    padding: 2%;
+}
+
+

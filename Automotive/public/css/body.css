@@ -1,0 +1,117 @@
+
+body {
+
+    background-color: #0F1215;
+
+}
+
+
+#home{
+
+    position: relative;
+    bottom: 20px;
+    /*<img class="img-responsive" src="public/home/image/jk.jpg">*/
+}
+
+#home div{
+
+    position: relative;
+
+}
+
+#home p{
+
+    margin: 20px;
+    position: absolute;
+    left:39%;
+    bottom:50%;
+
+
+}
+
+#home img{
+
+    position: relative;
+    padding-top: 6%;
+
+}
+
+
+#content{
+
+    width: auto;
+    border-style: solid;
+    bottom: 70px;
+
+}
+
+.wrapper{
+
+    position: relative;
+    bottom:20px ;
+
+}
+
+.carousel-caption {
+
+    position: absolute;
+
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+
+    height:100vmin;
+    width: 300vmin;
+
+}
+
+.carousel-inner>.item{
+
+    height:auto;
+
+}
+.carousel{
+
+}
+
+/* website name*/
+.main-text
+{
+    position: absolute;
+    top: 90px;
+    width: 96.66666666666666%;
+
+
+}
+
+.carousel-control{
+
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    width: 55px;
+    height: 50px;
+    margin-top: -20px;
+    font-size: 60px;
+    font-weight: 100;
+    line-height: 50px;
+    color: #ffffff;
+    text-align: center;
+    background: #222222;
+    border: 3px solid transparent;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+
+}
+.carousel-control.right {
+
+    right: 15px;
+    left: auto;
+
+}
+.carousel-indicators li{
+
+    display:none;
+
+}

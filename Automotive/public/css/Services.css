@@ -1,0 +1,81 @@
+/*  services container*/
+#services{
+
+    background:#0F1215;
+
+}
+/* services container row*/
+#services_row{
+    padding-top: 70px;
+    position: relative;
+    bottom: 20px;
+    background-color: #0F1215;
+    height: auto;
+    border-bottom-style: none;
+    top:5px;
+}
+
+/* services column */
+.services{
+    text-align: center;
+}
+/* header style*/
+.services h1{
+    color: #FDC501;
+    font-size: 4em;
+}
+/* paragraph style*/
+.services>p{
+    color:  #A8A7A7;
+    font-size: 1.5em;
+}
+
+
+/* spare parts shop section style*/
+
+#shop_parts:focus{
+    color: transparent;
+    text-decoration: none;
+}
+
+#shop_parts:hover{
+
+    text-decoration: none;
+}
+
+
+/** image animation **/
+
+
+
+img#oil,img#wheel,img#repair{
+
+
+    transition:0.8s ease-in-out ;
+}
+
+
+/* image hoover animation**/
+
+img#oil:hover{
+    transform: rotate(-40deg);
+}
+
+
+img#wheel:hover{
+    transform: rotate(360deg);
+
+
+}
+
+img#repair:hover{
+    transform: rotate(40deg);
+
+
+}
+
+
+
+
+
+
